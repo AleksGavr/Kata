@@ -30,7 +30,7 @@ public class Main {
 
 //  создаю массивы для соотнесения операндов арабским или римским числам
         String[] arabic = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"};
-        String[] rome = {"I", "II", "III", "IV", "V", "VI", "VI", "VII", "IX", "X"};
+        String[] rome = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
         String[] rome2 = {"C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
         int[] arabic2 = {100, 90, 50, 40, 10, 9, 5, 4, 1};
 
